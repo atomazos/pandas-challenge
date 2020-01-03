@@ -1,8 +1,7 @@
 # pandas-challenge
 
 Using Pandas library, I pythonically created various dataframes in order to analyze the Heroes of Pymoli data contained in a csv file. The final report of the data includes the following analysis: 
-### Player Count
-
+#### Player Count
 ### Total Number of Players
 
 ### Purchasing Analysis (Total)
