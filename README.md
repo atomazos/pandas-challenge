@@ -1,7 +1,7 @@
 # pandas-challenge
 
 Using Pandas library, I pythonically created various dataframes in order to analyze the Heroes of Pymoli dataset contained in a csv file. 
-
+![Screen Shot 2020-01-03 at 11 41 17 AM](https://user-images.githubusercontent.com/54033512/71740183-32d77180-2e21-11ea-86b3-d0110f889172.png)
 
 The final report of the data includes the following analysis: 
 #### Player Count
